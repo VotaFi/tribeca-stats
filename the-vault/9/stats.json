@@ -1,0 +1,6 @@
+{
+  "totalVev": "168868549",
+  "totalV": "17028685",
+  "VPrice": 0.20152891581165414,
+  "voteBuys": "[{\"discriminator\":{\"0\":155,\"1\":17,\"2\":20,\"3\":82,\"4\":247,\"5\":189,\"6\":203,\"7\":225},\"gauge\":\"ASLKHTQpxgvGc9BEhiSk3xsgy2Hw5Uj4DtmoVjFKPQmi\",\"mint\":\"EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\",\"amount\":\"80000\",\"maxAmount\":\"[object Object]\",\"buyer\":\"8KFHsMKbcmLd4zoUSgGtyxCsqWvF9Ue1ixEWiA33erET\",\"totalCommitted\":\"0\"}]"
+}
