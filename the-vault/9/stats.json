@@ -1,0 +1,15 @@
+{
+  "totalVev": "168866396",
+  "totalV": "17028685",
+  "VPrice": 0.20152891581165414,
+  "voteBuys": [
+    {
+      "gauge": "ASLKHTQpxgvGc9BEhiSk3xsgy2Hw5Uj4DtmoVjFKPQmi",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "80000",
+      "maxAmount": "None",
+      "buyer": "8KFHsMKbcmLd4zoUSgGtyxCsqWvF9Ue1ixEWiA33erET",
+      "totalCommitted": "0"
+    }
+  ]
+}
