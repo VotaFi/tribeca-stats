@@ -1,0 +1,23 @@
+{
+  "totalVev": "168598775",
+  "totalV": "17028685",
+  "vPrice": 0.21707974181557937,
+  "voteBuys": [
+    {
+      "gauge": "ASLKHTQpxgvGc9BEhiSk3xsgy2Hw5Uj4DtmoVjFKPQmi",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "2000",
+      "maxAmount": "None",
+      "buyer": "xHKWQSrQZ6aYnE8ESrboKuZSnoP9UQWkCwc1tedFX8N",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "HGM3SthQ19VNMwk8LtvCy7F28i3kudxuo3j87481jGVB",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "3000",
+      "maxAmount": "None",
+      "buyer": "xHKWQSrQZ6aYnE8ESrboKuZSnoP9UQWkCwc1tedFX8N",
+      "totalCommitted": "0"
+    }
+  ]
+}
