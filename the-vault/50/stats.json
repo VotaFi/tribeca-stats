@@ -1,0 +1,63 @@
+{
+  "totalVev": "21434781856622",
+  "totalV": "2837690873693",
+  "vPrice": 0.012422644202860888,
+  "voteBuys": [
+    {
+      "gauge": "67myM6YboYpqHBzjCA8XrCrvxyVxH339x53NmtDGSzXN",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "40000000",
+      "maxAmount": "None",
+      "buyer": "RAoEnBNgWR3H4L76UFtXNoJShLQ3yFSUcGPCDEzqmMb",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "8eqDwSMY68oJDdsHvKFghY8D9KDCLJYWtMXMCdKAu6Kv",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "10760579",
+      "maxAmount": "None",
+      "buyer": "8ZYkgY8vux63VKDv65gcbqrakM3k1DLBqUYtzoZmX7sd",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "2y85z7ir3cFVTKhFhMZ8bCoKZXCBufcScV4WN2PBRZWS",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "109000000",
+      "maxAmount": "None",
+      "buyer": "YQnUXaGx5r6k3KHg3bKtERq9gHZjCFZTLJJRVmSCJrx",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "3HQe4QxeuA1ZHQk8UP7ptos9pDqrzBnDdn3fXzZukGng",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "400000000",
+      "maxAmount": "None",
+      "buyer": "Ed94xEVpMgjCJJT6XksscCL1pt3Mmhe92zuc2wRaRFhL",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "HuwqcKDa6qSQDEWYLv7YxPKNoqDgxBh4DyRguJKG4VuT",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "200000000",
+      "maxAmount": "None",
+      "buyer": "3L4ARwH2RcxT4YSdP4f13NUKsM9mZU4wsJFpPF87URNJ",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "7qJ6v5SSYRva56UsUX4ivjoTXY75K9ZUQFWBXst1BL2U",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "125000000",
+      "maxAmount": "None",
+      "buyer": "YQnUXaGx5r6k3KHg3bKtERq9gHZjCFZTLJJRVmSCJrx",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "XNhe3ggcSTAyTNXv4Y5DGKsjth5rYwMDXL18B8Kgpdx",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "92545037",
+      "maxAmount": "None",
+      "buyer": "8ZYkgY8vux63VKDv65gcbqrakM3k1DLBqUYtzoZmX7sd",
+      "totalCommitted": "0"
+    }
+  ]
+}
