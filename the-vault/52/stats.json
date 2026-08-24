@@ -1,0 +1,47 @@
+{
+  "totalVev": "22104349728629",
+  "totalV": "2816580884408",
+  "vPrice": 0.019711374258048232,
+  "voteBuys": [
+    {
+      "gauge": "7qJ6v5SSYRva56UsUX4ivjoTXY75K9ZUQFWBXst1BL2U",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "102020000",
+      "maxAmount": "None",
+      "buyer": "GerMSjLWGnEkvWp91k2o6pFi6ikSp9v8VkTUy3u2H3Pk",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "67myM6YboYpqHBzjCA8XrCrvxyVxH339x53NmtDGSzXN",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "45000000",
+      "maxAmount": "None",
+      "buyer": "RAoEnBNgWR3H4L76UFtXNoJShLQ3yFSUcGPCDEzqmMb",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "2y85z7ir3cFVTKhFhMZ8bCoKZXCBufcScV4WN2PBRZWS",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "97020000",
+      "maxAmount": "None",
+      "buyer": "GGMitkT14h9Cf6DYRVUmTeTYd2yCm9jxrvBrEcnTVGHc",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "3HQe4QxeuA1ZHQk8UP7ptos9pDqrzBnDdn3fXzZukGng",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "500000000",
+      "maxAmount": "None",
+      "buyer": "Ed94xEVpMgjCJJT6XksscCL1pt3Mmhe92zuc2wRaRFhL",
+      "totalCommitted": "0"
+    },
+    {
+      "gauge": "HuwqcKDa6qSQDEWYLv7YxPKNoqDgxBh4DyRguJKG4VuT",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": "250000000",
+      "maxAmount": "None",
+      "buyer": "3L4ARwH2RcxT4YSdP4f13NUKsM9mZU4wsJFpPF87URNJ",
+      "totalCommitted": "0"
+    }
+  ]
+}
